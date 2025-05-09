@@ -1,0 +1,5 @@
+model/weights/
+tools/mnist/cond_class_samples/
+tools/mnist/samples/
+tools/mnist/vqvae_autoencoder_samples/
+data/
